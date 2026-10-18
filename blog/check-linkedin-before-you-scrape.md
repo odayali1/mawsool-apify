@@ -23,11 +23,7 @@ You keep the match rule. If your CRM says "Acme" and the row says "Acme Inc", yo
 
 ## What 10,000 profiles cost
 
-On the Diamond plan, a full scrape with [LinkedIn Profile Scraper](https://apify.com/oday/mawsool-linkedin-profile-details) is $0.80 per 1,000, so 10,000 URLs cost $8.
-
-The freshness check is $0.30 per 1,000, so the same 10,000 URLs cost $3. If 1,500 profiles then need the full scrape, that second step is $1.20. The refresh is $4.20 instead of $8.
-
-The free plan is $0.60 per 1,000 for the check and $1.80 per 1,000 for the full profile.
+The freshness check is $0.40 per 1,000, so 10,000 URLs cost $4. The free plan is $0.60 per 1,000. Run [LinkedIn Profile Scraper](https://apify.com/oday/mawsool-linkedin-profile-details) only on the rows you choose.
 
 ## How to run it
 
