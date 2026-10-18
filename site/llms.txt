@@ -1,0 +1,32 @@
+# Mawsool Actors on Apify
+
+Mawsool publishes LinkedIn and email data Actors on Apify. Exact matches only. No LinkedIn login and no cookies. You supply the email or the URL.
+
+## People
+
+- Reverse Email Lookup. Email address in, LinkedIn profile out, exact match only. Starting from $0.60 per 1,000 emails. https://apify.com/oday/mawsool-email-linkedin-lookup
+- LinkedIn Profile Finder. Name and company in, profile URL out. Starting from $0.40 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-finder
+- LinkedIn Email Finder. Profile URL in, personal email out, only on a 100% exact match. No match, no charge. Starting from $30 per 1,000 found. https://apify.com/oday/mawsool-linkedin-personal-email-finder
+- Profile Freshness Check. Profile URL in, current company and headline out. You compare them to your CRM. This Actor does not decide if they match. Starting from $0.30 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-freshness
+- LinkedIn Profile Scraper. Full profile from a URL you already have. Starting from $0.80 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-details
+- Mass Profile Scraper. The same full profile, for large URL files. https://apify.com/oday/mawsool-mass-linkedin-profile-scraper
+- Job Change Tracker. Scheduled alert when the employer or headline changes. Starting from $0.30 per 1,000. https://apify.com/oday/mawsool-linkedin-job-change-watch
+- Current Company Checker. Compares a company you supply with the current employer. https://apify.com/oday/mawsool-linkedin-company-checker
+- Profile to Company Website. Starting from $0.70 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-to-company-website
+- Work Experience. Starting from $0.45 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-experience
+- Education. Starting from $0.45 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-education
+- Certifications and Patents. Starting from $0.45 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-credentials
+- Certification Checker. Yes or no for one certificate. Starting from $0.45 per 1,000. https://apify.com/oday/mawsool-linkedin-certification-checker
+- Profile Activity. Likes and comments. Starting from $0.45 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-activity
+
+## Companies
+
+- Company Details. Starting from $0.90 per 1,000. https://apify.com/oday/mawsool-linkedin-company-details
+- Mass Company Scraper. https://apify.com/oday/mawsool-mass-linkedin-company-scraper
+- Firmographics and Website. Starting from $0.45 per 1,000. https://apify.com/oday/mawsool-linkedin-company-firmographics
+- Company Locations. Starting from $0.45 per 1,000. https://apify.com/oday/mawsool-linkedin-company-locations
+- Similar Companies. Starting from $0.45 per 1,000. https://apify.com/oday/mawsool-linkedin-similar-companies
+- Company Posts. Pay per company, not per post. Starting from $0.45 per 1,000. https://apify.com/oday/mawsool-linkedin-company-posts
+- Company Post Monitor. Only new posts on the next run. https://apify.com/oday/mawsool-linkedin-company-post-watch
+
+Support: support@mawsool.tech
