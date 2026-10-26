@@ -1,0 +1,54 @@
+{
+  "name": "Email to LinkedIn",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "8f1c2a10-6b4e-4c2a-9d11-0a1b2c3d4e5f",
+      "name": "When clicking Test workflow",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.apify.com/v2/acts/oday~mawsool-email-linkedin-lookup/run-sync-get-dataset-items",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer YOUR_APIFY_TOKEN"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{\n  \"emails\": [\"prospect@example.com\"]\n}",
+        "options": {}
+      },
+      "id": "a91e7c22-1d55-4f80-b6aa-77c0d9e1f234",
+      "name": "Reverse email lookup",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [320, 0]
+    }
+  ],
+  "connections": {
+    "When clicking Test workflow": {
+      "main": [
+        [
+          {
+            "node": "Reverse email lookup",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "meta": {
+    "templateCredsSetupCompleted": false
+  }
+}

@@ -8,7 +8,7 @@ slug: personal-email-from-linkedin
 
 [LinkedIn Email Finder](https://apify.com/oday/mawsool-linkedin-personal-email-finder) takes a profile URL you already have and returns a personal mailbox only when the match is 100% exact. A 99% match is dropped. You do not pay for it, and it does not appear in the dataset.
 
-Starting from $30 per 1,000 emails found on Diamond. Gold is $38 per 1,000. The free plan is $50. One profile is one charge, even if that profile has more than one address.
+Starting from $30 per 1,000 emails found. Gold, Platinum, and Diamond are $30. The free plan is $50. One profile is one charge, even if that profile has more than one address. A miss is free.
 
 ## Why a personal mailbox
 

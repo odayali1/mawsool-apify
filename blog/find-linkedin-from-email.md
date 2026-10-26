@@ -8,7 +8,7 @@ slug: find-linkedin-from-email
 
 Paste the email into [Reverse Email Lookup](https://apify.com/oday/mawsool-email-linkedin-lookup). When `hasLinkedIn` is true, `linkedinUrl` is the profile for that email. When the match is not exact, the profile fields are empty.
 
-Starting from $0.60 per 1,000 emails on Diamond. The free plan is $2 per 1,000. You are charged for each email processed, including a row with no match.
+Starting from $0.60 per 1,000 emails. Gold, Platinum, and Diamond are $0.60. The free plan is $2 per 1,000. You are charged for each email processed, including a row with no match.
 
 ## What you get
 

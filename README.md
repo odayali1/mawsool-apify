@@ -20,3 +20,7 @@ The product site is [mawsool.tech](https://mawsool.tech). These articles are pub
 - [LinkedIn Profile Scraper](https://apify.com/oday/mawsool-linkedin-profile-details)
 
 A full list is in [llms.txt](site/llms.txt).
+
+## Workflow
+
+- [n8n: email to LinkedIn](workflows/n8n-email-to-linkedin.json) calls the public Reverse Email Lookup Actor. Set an Apify token in the Authorization header. It does not call a private API.
