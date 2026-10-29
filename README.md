@@ -18,6 +18,7 @@ The product site is [mawsool.tech](https://mawsool.tech). These articles are pub
 - [Reverse Email Lookup](https://apify.com/oday/mawsool-email-linkedin-lookup)
 - [LinkedIn Email Finder](https://apify.com/oday/mawsool-linkedin-personal-email-finder)
 - [LinkedIn Profile Finder](https://apify.com/oday/mawsool-linkedin-profile-finder)
+- [Live LinkedIn Profile Scraper](https://apify.com/oday/mawsool-live-linkedin-profile) returns the live full profile. A miss is free. Starting from $0.90 per 1,000.
 - [LinkedIn Profile Scraper](https://apify.com/oday/mawsool-linkedin-profile-details)
 
 A full list is in [llms.txt](site/llms.txt).

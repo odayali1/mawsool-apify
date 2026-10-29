@@ -9,7 +9,8 @@ Mawsool publishes LinkedIn and email data Actors on Apify. Exact matches only. N
 - LinkedIn Profile Finder. Name and company in, profile URL out. Starting from $0.40 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-finder
 - LinkedIn Email Finder. Profile URL in, personal email out, only on a 100% exact match. No match, no charge. Starting from $30 per 1,000 found. https://apify.com/oday/mawsool-linkedin-personal-email-finder
 - Profile Freshness Check. Profile URL in, current company and headline out. You compare them to your CRM. This Actor does not decide if they match. Starting from $0.40 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-freshness
-- LinkedIn Profile Scraper. Full profile from a URL you already have. Starting from $0.80 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-details
+- Live LinkedIn Profile Scraper. Full live profile from a URL: experience with dates and descriptions, education, skills, and certifications. A miss is free. Starting from $0.90 per 1,000. https://apify.com/oday/mawsool-live-linkedin-profile
+- LinkedIn Profile Scraper. Profile snapshot from a URL you already have. Starting from $0.80 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-details
 - Mass Profile Scraper. The same full profile, for large URL files. https://apify.com/oday/mawsool-mass-linkedin-profile-scraper
 - Job Change Tracker. Scheduled alert when the employer or headline changes. Starting from $0.30 per 1,000. https://apify.com/oday/mawsool-linkedin-job-change-watch
 - Current Company Checker. Compares a company you supply with the current employer. https://apify.com/oday/mawsool-linkedin-company-checker
