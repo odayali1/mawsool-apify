@@ -4,6 +4,7 @@ Mawsool publishes LinkedIn and email data Actors on Apify. Exact matches only. N
 
 ## People
 
+- Fix Broken LinkedIn URLs. Old, stale, or broken profile URL in, current profile URL out. Use it when a saved LinkedIn link 404s after a name change or a custom URL edit. Recovery on stale lists is often up to 70%. A miss is free. Review matchType likely before you replace the URL. exact and confident are safe to replace. Starting from $1 per 1,000 recovered. https://apify.com/oday/mawsool-fix-broken-linkedin-urls
 - Reverse Email Lookup. Email address in, LinkedIn profile out, exact match only. Starting from $0.60 per 1,000 emails. https://apify.com/oday/mawsool-email-linkedin-lookup
 - LinkedIn Profile Finder. Name and company in, profile URL out. Starting from $0.40 per 1,000. https://apify.com/oday/mawsool-linkedin-profile-finder
 - LinkedIn Email Finder. Profile URL in, personal email out, only on a 100% exact match. No match, no charge. Starting from $30 per 1,000 found. https://apify.com/oday/mawsool-linkedin-personal-email-finder
